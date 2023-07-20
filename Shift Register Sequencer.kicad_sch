@@ -2599,8 +2599,8 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 5d19e5ed-fc31-4945-b7d5-c201f57390f7)
   )
-  (text "*The taps can be configured in other ways if the user wants.\nexample of a LFSR calculator https://www.dcode.fr/linear-feedback-shift-register"
-    (at 191.008 27.178 0)
+  (text "*The taps can be configured in other ways if the user wants.\nexample of a LFSR calculator https://www.dcode.fr/linear-feedback-shift-register\n\n*Note. If the LFSR is omitted the unused inputs of the CD4070 must be tied to ground or +5V "
+    (at 191.77 30.226 0)
     (effects (font (size 1.27 1.27) italic) (justify left bottom))
     (uuid 6568e771-956f-4e2a-9e00-c31799484a57)
   )
