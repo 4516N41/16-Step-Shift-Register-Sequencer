@@ -1,2 +1,4 @@
 # 16-Step-Shift-Register-Sequencer
-On the fly programmable 16 step drum/gate sequencer.
+Runtime programmable 16 step Trigger/Gate sequencer with the option of a Linear Feedbak Shift Register mode. <br/>
+
+
